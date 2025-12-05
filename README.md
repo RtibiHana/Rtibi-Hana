@@ -10,7 +10,8 @@ Motivée, organisée et capable de travailler sur des projets variés allant du 
 Habituée à concevoir et développer des solutions complètes : analyse, modélisation, implémentation, tests et documentation.
 
 ---
-## Mon CV
+## 📄 Mon CV
+[👉 Télécharger mon CV (PDF)](CV_Rtibi_Hana.pdf)
 
 ---
 ## Compétences Techniques
