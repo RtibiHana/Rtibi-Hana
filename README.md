@@ -11,7 +11,7 @@ Habituée à concevoir et développer des solutions complètes : analyse, modél
 
 ---
 ## 📄 Mon CV
-[👉 Télécharger mon CV (PDF)](CV_Rtibi_Hana.pdf)
+[👉 Télécharger mon CV (PDF)](CV.pdf)
 
 ---
 ## Compétences Techniques
